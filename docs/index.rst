@@ -8,10 +8,13 @@ Welcome to father's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+
+   son
 
 This is father
 
+Link to the whole `family <https://family-test.readthedocs.io/en/latest>`_
 
 Indices and tables
 ==================
