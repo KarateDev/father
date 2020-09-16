@@ -8,7 +8,7 @@ Welcome to father's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Contents:
 
    son
 
